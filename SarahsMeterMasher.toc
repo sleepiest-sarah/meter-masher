@@ -1,0 +1,7 @@
+## Interface: 80000
+## Title: Sarah's Meter Masher
+## Author: Sarah Mantovani
+## Version: 01
+## SavedVariables: MeterMasherDb
+
+SarahsMeterMasher.lua
